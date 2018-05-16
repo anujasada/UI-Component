@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+.top-nav .nav-left{
+    display: inline;
+    padding: 10px;
+    color: #fff;
+    font-size: 1.2em;
+    font-family: 'Crimson Text', serif;
+    
+
+}
+.top-nav{
+    background-color: rgb(33, 33, 33);
+    padding: 15px;
+    margin-top: 0px;
+}
+.disp {
+    background-color: rgb(33, 33, 33);
+    /* padding: 4px;  */
+}
+img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    
+}
+.nav-right{
+    float: right;
+    list-style: none;
+    margin-top: -0.5%;
+}
