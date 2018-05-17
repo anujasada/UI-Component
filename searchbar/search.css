@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.search {
+    font-size: 1.5em;
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+.but {
+    font-size: 1.5em;
+    border: 1px solid gray;
+    padding: 5px;
+    width: 4%;
+    border-radius: 0.2rem;
+}
+ 
+.main {
+    text-align: center;
+    margin-top: 200px;
+}

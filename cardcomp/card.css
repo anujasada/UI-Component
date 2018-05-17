@@ -1,0 +1,9 @@
+img {
+    width: 250px;
+    height: 220px;
+}
+.main {
+    border: 1px solid gray;
+    margin-right: 80%;
+    text-align: center;
+}

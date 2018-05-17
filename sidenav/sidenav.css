@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    margin-top: -1.2%;
+}
+
+.main {
+    background-color:  #3f5468;
+    width: 200px;
+    height: 685px;
+    position: fixed;
+}
+
+.nav {
+    list-style: none;
+    font-size: 1.3em;
+    color: #e9fadd;
+    padding: 15px;
+    font-family: 'Fira Sans', sans-serif;
+    margin-top: 10px;
+    text-align: left;
+    margin-left: -20%;
+}
+
+.image {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-top: 15px;
+    object-fit: cover;
+}
